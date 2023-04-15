@@ -1,1 +1,1 @@
-web: dotnet TiendaSolucion.dll
+web: dotnet TiendaServicios.Api.Autor.dll
