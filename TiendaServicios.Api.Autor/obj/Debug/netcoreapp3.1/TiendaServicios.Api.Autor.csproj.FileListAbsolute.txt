@@ -1,0 +1,342 @@
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\L2030\Downloads\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\L2030\OneDrive\Escritorio\TiendaServicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Pack.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TiendaServicios.Api.Autor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\mateo\OneDrive\Documentos\8vo Cuatrimestre\Desarrollo Web\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.exe
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.deps.json
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.json
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.runtimeconfig.dev.json
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Manifest.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Autor.StaticWebAssets.Pack.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TiendaServicios.Api.Autor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TiendaServicios.Api.Autor.props
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.RazorTargetAssemblyInfo.cache
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.dll
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.pdb
+C:\Users\mateo\OneDrive\Escritorio\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.genruntimeconfig.cache
